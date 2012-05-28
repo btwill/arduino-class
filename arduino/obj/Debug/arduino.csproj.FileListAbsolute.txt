@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\arduino\arduino\bin\Debug\arduino.dll
+c:\users\user\documents\visual studio 2010\Projects\arduino\arduino\bin\Debug\arduino.pdb
+c:\users\user\documents\visual studio 2010\Projects\arduino\arduino\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\arduino\arduino\obj\Debug\arduino.dll
+c:\users\user\documents\visual studio 2010\Projects\arduino\arduino\obj\Debug\arduino.pdb
